@@ -23,17 +23,9 @@ Since it pleased Almighty God, by his Holy Spirit, to call certain of his servan
    2. [Members' Meetings](#2-members-meetings)
 9. [Church Officers and Staff](#9-church-officers-and-staff)
    1. [Elders](#1-elders-pastors-or-overseers)
-   2. [Terminology Regarding Elders](#2-terminology-regarding-elders)
-   3. [Qualifications for Elders](#3-qualifications-for-elders)
-   4. [Responsibilities of Elders](#4-responsibilities-of-elders)
-   5. [Selection of Elders](#5-selection-of-elders)
-   6. [Vocational Elders](#6-vocational-elders)
-   7. [Non-vocational Elders](#7-non-vocational-elders)
-   8. [Teaching Elders](#8-teaching-elders)
-   9. [Appointment of a Pastor in the Absence of Elders](#9-appointment-of-a-pastor-in-the-absence-of-elders)
-   10. [Deacons](#10-deacons)
-   11. [Pastoral Assistants](#11-pastoral-assistants)
-   12. [The Accountant](#12-the-accountant)
+   2. [Deacons](#10-deacons)
+   3. [Pastoral Assistants](#11-pastoral-assistants)
+   4. [The Accountant](#12-the-accountant)
 10. [Dissolution of the Church](#10-dissolution-of-the-church)
 11. [Modification of Constitution](#11-modification-of-constitution)
 
@@ -231,7 +223,7 @@ The authority to affirm officers is vested in the congregation. The New Testamen
 
 In accordance with clear, New Testament principles, the oversight of the church rests with its elders, all of whom are equal in authority, ministering in a plurality of leadership. The structure of New Testament church government is a collective leadership in which each elder shares equally the position, authority, and responsibility of the office.
 
-### 2 Terminology Regarding Elders
+#### 1 Terminology Regarding Elders
 
 1. Elders are designated by three terms in the New Testament, each of which highlights a distinct responsibility of those in this office: “overseer” (“bishop”), one who gives oversight to the welfare of the church; “elder,” one who gives mature leadership to the church; and “pastor” (“shepherd”), one who shepherds and feeds the flock.
 
@@ -239,7 +231,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 3. Jesus Christ is the Chief Shepherd—the supreme Head and Leader of the church—and the elders serve as his under-shepherds. The elders are therefore responsible to Christ rather than to a “senior” pastor.
 
-### 3 Qualifications for Elders
+#### 2 Qualifications for Elders
 
 1. The qualifications for the office of elder are specifically set forth in 1 Timothy 3:1–7; Titus 1:5–11; and 1 Peter 5:1–4. They are qualifications of ethical behaviour, knowledge of Christian doctrine, and sound family life. Elders must be “above reproach” (1 Timothy 3:2) because they are to wield godly influence for the church, and bring no reproach to the name of Christ. They are men who are able to teach, model a godly family life, are firmly committed to living out our Lord’s principles of discipleship, and who seek first the kingdom of God and his righteousness (Matthew 6:33). They are men who love Jesus Christ above all else and who willingly sacrifice themselves for the sake of others, even to suffer for Christ. They are men who are known to commit themselves to prayer.
 
@@ -247,7 +239,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 3. Prospective elders are to be publicly examined in the light of biblical qualifications. The number of elders is not limited, but shall depend on the number of men the Lord calls and the church affirms.
 
-### 4 Responsibilities of Elders
+#### 3 Responsibilities of Elders
 
 1. Subject to the will of the congregation, the elders shall oversee the ministry and resources of the church. In keeping with the principles set forth in Acts 6:1–6 and 1 Peter 5:1–4, the elders shall devote their time to prayer, the ministry of the word (by teaching and encouraging sound doctrine), and shepherding God’s flock.
 
@@ -259,7 +251,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 5. The elders shall meet as often as the proper fulfilment of their responsibilities may require.
 
-### 5 Selection of Elders
+#### 4 Selection of Elders
 
 1. A member who desires the office of elder and is confident that he fulfils the biblical requirements for the office may approach any of the elders to express his desire to serve in that capacity.
 
@@ -275,7 +267,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 7. The candidate shall subsequently be ordained to the office during a normal Sunday morning service by the laying on of hands and prayer by the pastors/elders.
 
-### 6 Vocational Elders
+#### 5 Vocational Elders
 
 1. Elders shall serve without remuneration, except in cases where it is felt by the elders and the congregation that it shall be advantageous to the life and ministry of the church, in keeping with a congregation-approved budget, that such elders should be enabled to give undivided attention to the work and ministry of the church. Any proposal to vocationally employ an elder shall be made at a regularly-scheduled members’ meeting and be ratified by the membership no sooner than the following regularly-scheduled members’ meeting.
 
@@ -283,13 +275,13 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 3. A vocational elder shall remain in office as long as he is a member and continues to meet the biblical requirements, or resigns the office, or disqualifies himself. Any engagement between the church and a vocational elder shall be terminated by three months’ notice in writing by either party, unless otherwise mutually agreed.
 
-### 7 Non-vocational Elders
+#### 6 Non-vocational Elders
 
 1. Biblically qualified and called men, who are members of, but not vocationally employed by, the church may be appointed to serve as elders in accordance with the selection process outlined above. Non-vocational elders shall bear the same authority and responsibilities as vocational elders.
 
 2. Non-vocational elders shall be appointed to serve a term of three years. A non-vocational elder may serve a maximum of two three-year terms before taking a mandatory one-year sabbatical from the office of elder. Assuming he remains qualified, he may be nominated and re-affirmed as an elder after his one-year sabbatical.
 
-### 8 Teaching Elders
+#### 7 Teaching Elders
 
 1. Although elders act jointly as a body and share equal authority and responsibility for the leadership of the church, they are not equal in giftedness, biblical knowledge, leadership ability, experience, or dedication. Therefore, those who are particularly gifted leaders and/or teachers stand out in the body of elders as leaders and teachers as “firsts among equals,” a pattern which was seen even among our Lord’s disciples.
 
@@ -299,7 +291,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 4. The one seen as “first among equals” in this sense may be regarded as a leader of leaders, but is an elder himself and has no greater authority than any of the other elders.
 
-### 9 Appointment of a Pastor in the Absence of Elders
+#### 8 Appointment of a Pastor in the Absence of Elders
 
 1. The existing elders shall lead the congregation in the selection of elder candidates. If there are no elders in the church then the following procedure shall be followed.
 
@@ -311,7 +303,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 5. An invitation shall be contingent upon the prospective pastor accepting in writing the provisions on the constitution of the church, a copy of which shall be supplied for his perusal.
 
-### 10 Deacons
+### 2 Deacons
 
 1. The deacons shall consist of members, over the age of 21, and who have been church members for no less than one year, possessing the qualifications described in 1 Timothy 3:8–13. Deacons elected by the church shall be members who are giving of themselves in service to the church, and who possess particular gifts of service. These members shall be received as gifts of Christ to his church and set apart as deacons. Deacons shall be elected to a term lasting two years, after which they shall retire from office. A retired deacon may be re-elected to office upon retirement, subject to the will of the church.
 
@@ -321,7 +313,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 ### 11 Pastoral Assistants
 
-1. The elders may hire additional staff to assist with pastoral ministry, subject to a congregation-approved budget. These assistants shall not be hired as pastors, though they may be recognised as elders should they be nominated by the elders and affirmed by the congregation, in accordance with Article 9. A. iv.
+1. The elders may hire additional staff to assist with pastoral ministry, subject to a congregation-approved budget. These assistants shall not be hired as pastors, though they may be recognised as elders should they be nominated by the elders and affirmed by the congregation, in accordance with [Article 9.1.4](#4-selection-of-elders)
 
 2. The vocational elders shall assign the responsibilities of pastoral assistants. They shall serve in this capacity for as long as their assistance is required and the budget allows.
 
