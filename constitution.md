@@ -11,17 +11,17 @@ South Africa
 
 ### TABLE OF CONTENTS
 
-1. [NAME](#name)
-2. [PURPOSE](#purpose)
-3. [CHURCH GOVERNMENT](#church-government)
-4. [AFFILIATION](#affiliation)
-5. [DECLARATION OF BELIEF](#declaration-of-belief)
-6. [MEMBERSHIP OF THE CHURCH](#membership-of-the-church)
-7. [CHURCH DISCIPLINE](#church-discipline)
-8. [MEETINGS](#meetings)
-9. [CHURCH OFFICERS AND STAFF](#church-officers-and-staff)
-10. [DISSOLUTION OF THE CHURCH](#dissolution-of-the-church)
-11. [MODIFICATION OF CONSTITUTION](#modification-of-constitution)
+1. [NAME](#1-name)
+2. [PURPOSE](#2-purpose)
+3. [CHURCH GOVERNMENT](#3-church-government)
+4. [AFFILIATION](#4-affiliation)
+5. [DECLARATION OF BELIEF](#5-declaration-of-belief)
+6. [MEMBERSHIP OF THE CHURCH](#6-membership-of-the-church)
+7. [CHURCH DISCIPLINE](#7-church-discipline)
+8. [MEETINGS](#8-meetings)
+9. [CHURCH OFFICERS AND STAFF](#9-church-officers-and-staff)
+10. [DISSOLUTION OF THE CHURCH](#10-dissolution-of-the-church)
+11. [MODIFICATION OF CONSTITUTION](#11-modification-of-constitution)
 
 [ANNEXURE A](#annexure-a)
 
@@ -170,23 +170,15 @@ The threefold purpose of church discipline is
 
 ---
 
-## MEETINGS
+## 8. MEETINGS
 
 The church shall meet together for worship, to discuss and vote on matters related to membership and ministry, and to conduct business. In every meeting together, members shall act in a spirit of mutual trust, openness, and loving consideration, which is appropriate to the body of Christ.
 
-[Table of contents](#table-of-contents)
-
----
-
-## WORSHIP MEETINGS
+### A. Worship Meetings
 
 Worship services shall be held each Lord’s Day, and may be held throughout the week as the church determines. Unless providentially hindered, members shall attend worship meetings; notwithstanding, non-members are welcome to attend the regularly-scheduled worship services of the church.
 
-[Table of contents](#table-of-contents)
-
----
-
-## MEMBERS’ MEETINGS
+### B. Members' Meetings
 
 1. Regular members’ meetings shall be held at least once a quarter, at a time apart from the regular corporate worship. These meetings shall ordinarily be held on the evening service of the Lord’s Day, following the evening morning? corporate gathering, but may be convened at other times upon the request of the elders or members as outlined below. The annual general meeting shall form the first of these quarterly meetings each year. Members’ meetings called on any day of the week, other than the Lord’s Day, shall be subject to written notice given on two successive Sundays before the day appointed for the meeting. Such notice shall be stated in the announcements and/or affixed to the notice board.
 
@@ -256,7 +248,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 5. The elders shall meet as often as the proper fulfilment of their responsibilities may require.
 
-## E. SELECTION OF ELDERS
+### E. SELECTION OF ELDERS
 
 1. A member who desires the office of elder and is confident that he fulfils the biblical requirements for the office may approach any of the elders to express his desire to serve in that capacity.
 
