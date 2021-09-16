@@ -1,5 +1,4 @@
-Constitution of
-Brackenhurst Baptist Church
+# Constitution of Brackenhurst Baptist Church
 
 revised
 2020
@@ -15,8 +14,8 @@ South Africa
 
 TABLE OF CONTENTS
 
-1. NAME
-2. PURPOSE
+1. [NAME](#name)
+2. [PURPOSE](#purpose)
 3. CHURCH GOVERNMENT
 4. AFFILIATION
 5. DECLARATION OF BELIEF
@@ -29,9 +28,13 @@ TABLE OF CONTENTS
     ANNEXURE A.
 
 Since it pleased Almighty God, by his Holy Spirit, to call certain of his servants to unite here in 1972, under the name Brackenhurst Baptist Church, for the worship of God and the spread of the gospel of Jesus Christ, and since he has seen fit to sustain and prosper this work to the present day, we do hereby adopt this Constitution as our articles of governance, to be interpreted at all times to reflect the character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated in the standards set forth in the statement of faith and church covenant included herein.
-NAME
+
+## NAME
+
 The name and designation of the church is BRACKENHURST BAPTIST CHURCH (for the purposes of this constitution, hereinafter called “the church”).
-PURPOSE
+
+## PURPOSE
+
 The church exists by the grace of God and for the glory of God, which is its ultimate purpose in all activities. The church glorifies God by loving him and obeying his commands; by worshipping him according to biblical order; by equipping the saints through biblical instruction and study; by proclaiming the gospel of Jesus Christ through preaching, personal evangelism, and any other means consistent with the teachings of holy Scripture; by encouraging, supporting, and participating in local, domestic, and international missions work; by administering the ordinances of baptism and Communion; by encouraging biblical fellowship among believers; by serving individuals, families, and churches by providing for physical, emotional, and spiritual needs in the name of Jesus Christ; and by encouraging sister churches to biblical faithfulness and purity through instruction and encouragement about the nature of the local church.
 CHURCH GOVERNMENT
 The church acknowledges Jesus Christ as the supreme Head of the church, and claims the scriptural right of complete autonomy and self-government; undertakes to manage all of its affairs according to New Testament teaching; and recognises the final authority of the holy Scriptures in all matters of faith and conduct.
