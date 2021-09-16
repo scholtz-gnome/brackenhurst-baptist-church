@@ -1,8 +1,5 @@
 # Constitution of Brackenhurst Baptist Church
 
-revised
-2020
-
 76 Roy Campbell Street
 Brackenhurst, Alberton, 1448
 South Africa
@@ -10,6 +7,8 @@ South Africa
 © 2007, 2020 Brackenhurst Baptist Church
 
 ### TABLE OF CONTENTS
+
+[Introduction](#introduction)
 
 1. [NAME](#1-name)
 2. [PURPOSE](#2-purpose)
@@ -25,7 +24,13 @@ South Africa
 
 [ANNEXURE A](#annexure-a)
 
+## Introduction
+
 Since it pleased Almighty God, by his Holy Spirit, to call certain of his servants to unite here in 1972, under the name Brackenhurst Baptist Church, for the worship of God and the spread of the gospel of Jesus Christ, and since he has seen fit to sustain and prosper this work to the present day, we do hereby adopt this Constitution as our articles of governance, to be interpreted at all times to reflect the character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated in the standards set forth in the statement of faith and church covenant included herein.
+
+[Table of contents](#table-of-contents)
+
+---
 
 ## 1. NAME
 
@@ -334,42 +339,58 @@ The church may at any time be dissolved by resolution of ninety percent (90%) ma
 
 ## 11. MODIFICATION OF CONSTITUTION
 
-The declaration of belief and church covenant may be amended by a three-quarters vote of the members present and voting at a members’ meeting, provided the amendment shall have been offered in writing at the previous members’ meeting, and shall have been announced from the pulpit at church services two successive Sundays Lord’s Days prior to such vote.
-The constitution may be amended by a two-thirds vote of the members present and voting at a members’ meeting, provided the amendment shall have been offered in writing at the previous members’ meeting, and shall have been announced from the pulpit at church services two successive Sundays Lord’s Days prior to such vote.
-The revised version of this constitution shall be made available to all church members upon request.
+1. The declaration of belief and church covenant may be amended by a three-quarters vote of the members present and voting at a members’ meeting, provided the amendment shall have been offered in writing at the previous members’ meeting, and shall have been announced from the pulpit at church services two successive Sundays Lord’s Days prior to such vote.
+
+2. The constitution may be amended by a two-thirds vote of the members present and voting at a members’ meeting, provided the amendment shall have been offered in writing at the previous members’ meeting, and shall have been announced from the pulpit at church services two successive Sundays Lord’s Days prior to such vote.
+
+3. The revised version of this constitution shall be made available to all church members upon request.
 
 [Table of contents](#table-of-contents)
 
 ---
 
-## ANNEXURE A - The Brackenhurst Baptist Church Membership Covenant
+## ANNEXURE A
+
+### The Brackenhurst Baptist Church Membership Covenant
 
 By God’s grace, we are gathered as those who have repented and believed in the Lord Jesus Christ. We have given ourselves to him and affirmed one another as citizens of his kingdom through baptism and the Lord’s Supper. Relying on his gracious aid, we do now solemnly and joyfully renew our covenant with each other.
+
 We will work and pray for the unity of the Spirit and the bond of peace.
 We will walk together in love as Christ commands, caring for each other, watching over each other, and encouraging and admonishing one another as occasion requires.
+
 We will regularly attend the church’s gatherings and faithfully pray for one another.
+
 We will endeavour to lead those in our care in the discipline and instruction of the Lord, as well as to seek the salvation of our family and friends.
 We will rejoice at each others’ happiness and bear each others’ burdens and sorrows.
+
 With God’s help, we will live carefully in the world, denying ungodliness and worldly desires. Our symbolic burial and resurrection in baptism testifies to this special obligation to live a new and holy life.
+
 We will work together to maintain a faithful gospel witness in our worship, ordinances, discipline, and doctrines. We will contribute cheerfully to the expenses of the church, the needs of our neighbours, and the spread of the gospel around the world.
+
 If we leave this congregation, we will join another gospel-preaching church as soon as possible where we can carry out the spirit of this covenant and the principles of God’s word.
-May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with us all. Amen.
+
+May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with us all.
+
+Amen.
 
 ---
 
 Brackenhurst Baptist Church
 
-CHURCH BUILDING
+#### CHURCH BUILDING
+
 76 Roy Campbell Street
 Brackenhurst, Alberton, 1448
 Republic of South Africa
 
-CHURCH OFFICE
+#### CHURCH OFFICE
+
 29 Chrissie Street
 Brackenhurst, Alberton, 1448
 Republic of South Africa
 
-POSTAL ADDRESS
+#### POSTAL ADDRESS
+
 PO Box 167356
 Brackendowns, 1454
 Republic of South Africa
