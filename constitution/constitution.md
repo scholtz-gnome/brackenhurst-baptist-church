@@ -27,11 +27,18 @@ Since it pleased Almighty God, by his Holy Spirit, to call certain of his servan
    3. [Qualifications for Elders](#3-qualifications-for-elders)
    4. [Responsibilities of Elders](#4-responsibilities-of-elders)
    5. [Selection of Elders](#5-selection-of-elders)
+   6. [Vocational Elders](#6-vocational-elders)
+   7. [Non-vocational Elders](#7-non-vocational-elders)
+   8. [Teaching Elders](#8-teaching-elders)
+   9. [Appointment of a Pastor in the Absence of Elders](#9-appointment-of-a-pastor-in-the-absence-of-elders)
+   10. [Deacons](#10-deacons)
+   11. [Pastoral Assistants](#11-pastoral-assistants)
+   12. [The Accountant](#12-the-accountant)
 10. [Dissolution of the Church](#10-dissolution-of-the-church)
 11. [Modification of Constitution](#11-modification-of-constitution)
 
-- [ANNEXURE A](#annexure-a): The Membership Covenant
-- [ANNEXURE B](#annexure-b): Statement of Faith
+- [Annexure A](#annexure-a): The Membership Covenant
+- [Annexure B](#annexure-b): Statement of Faith
 
 ## 1 Name
 
@@ -328,7 +335,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 ---
 
-## 10. Dissolution of the Church
+## 10 Dissolution of the Church
 
 The church may at any time be dissolved by resolution of ninety percent (90%) majority of the members on the church roll at a members’ meeting of the church.
 
@@ -348,7 +355,7 @@ The church may at any time be dissolved by resolution of ninety percent (90%) ma
 
 ---
 
-## ANNEXURE A
+## Annexure A
 
 ### The Membership Covenant
 
