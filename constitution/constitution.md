@@ -1,6 +1,6 @@
 # Constitution of Brackenhurst Baptist Church
 
-**Modified: 27 June 2007**
+**Modified: 16 September 2021**
 
 Since it pleased Almighty God, by his Holy Spirit, to call certain of his servants to unite here in 1972, under the name Brackenhurst Baptist Church, for the worship of God and the spread of the gospel of Jesus Christ, and since he has seen fit to sustain and prosper this work to the present day, we do hereby adopt this Constitution as our articles of governance, to be interpreted at all times to reflect the character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated in the standards set forth in the statement of faith and church covenant included herein.
 
@@ -23,6 +23,7 @@ Since it pleased Almighty God, by his Holy Spirit, to call certain of his servan
 8. [Meetings](#8-meetings)
    1. [Worship Meetings](#1-worship-meetings)
    2. [Members' Meetings](#2-members-meetings)
+   3. [Transaction of Business](#3-transaction-of-business)
 9. [Church Officers and Staff](#9-church-officers-and-staff)
    1. [Elders](#1-elders-pastors-or-overseers)
    2. [Deacons](#2-deacons)
@@ -185,9 +186,9 @@ Worship services shall be held each Lord’s Day, and may be held throughout the
 
 ### 2 Members' Meetings
 
-1. Regular members’ meetings shall be held at least once a quarter, at a time apart from the regular corporate worship. These meetings shall ordinarily be held on the evening service of the Lord’s Day, following the evening morning? corporate gathering, but may be convened at other times upon the request of the elders or members as outlined below. The annual general meeting shall form the first of these quarterly meetings each year. Members’ meetings called on any day of the week, other than the Lord’s Day, shall be subject to written notice given on two successive Sundays before the day appointed for the meeting. Such notice shall be stated in the announcements and/or affixed to the notice board.
+1. Regular members’ meetings shall be held at least once a quarter, at a time apart from the regular corporate worship. These meetings shall ordinarily be held on the evening service of the Lord’s Day, following the evening morning? corporate gathering, but may be convened at other times upon the request of the elders or members as outlined below. The annual general meeting shall form the first of these quarterly meetings each year. Members’ meetings called on any day of the week, other than the Lord’s Day, shall be subject to written notice given on two successive Sundays before the day appointed for the meeting. Such notice shall be stated in the announcements.
 
-2. An elder/s designated by the eldership shall preside as moderator at all members’ meetings. The elders shall see that the stated meetings of the church are regularly held and that all required business is conducted according to biblical standards and the requirements of the constitution of the church.
+2. An elder/s designated by the eldership shall preside as moderator at all members’ meetings.
 
 3. Provided all constitutional provisions for notification have been met, a quorum shall be understood to be met by those members present.
 
@@ -201,11 +202,7 @@ Worship services shall be held each Lord’s Day, and may be held throughout the
 
 8. A budget shall be approved by the members at the fourth quarterly members’ meeting each year. The proposed budget, having been formulated by the elders in conjunction with the accountant, and having taken into account budget requests from the members, shall be circulated to the membership by reasonable means not less than one calendar month two Lord’s Days prior to the fourth quarterly meeting, and opportunity shall be given in the intervening period to ask questions, make suggestions, and seek clarification. A vote shall be taken at the meeting to ratify the proposed budget.
 
-[Table of contents](#table-of-contents)
-
----
-
-## Transaction of Business
+### 3 Transaction of Business
 
 1. Subject to the will of the church, the elders and deacons, together with any other administrative officer appointed by the church, have authority to transact the business of the church, administer its funds, and carry out its directions in accordance with the congregation-approved budget and the conditions of the constitution of the church.
 
