@@ -280,23 +280,29 @@ In accordance with clear, scriptural principles, the oversight of the church res
 
 2. Non-vocational elders shall be appointed to serve a term of three years. A non-vocational elder may serve a maximum of two three-year terms before taking a mandatory one-year sabbatical from the office of elder. Assuming he remains qualified, he may be nominated and re-affirmed as an elder after his one-year sabbatical.
 
-#### 7 Appointment of a Pastor in the Absence of Elders
+#### 7 Pastor-teacher
 
-1. The existing elders shall lead the congregation in the selection of elder candidates. If there are no elders in the church then the following procedure shall be followed.
+definition
 
-2. A general meeting for the purpose of electing a pastor shall be called by the diaconate, at which the members shall appoint not less than six church members (who are not deacons) to act with the diaconate as a special calling committee. The members proposed for this calling committee shall be voted on at the above-mentioned general meeting. The members shall be individually accepted with a two-third majority of members present and eligible to vote.
+#### 8 Appointment of a Pastor-teacher in the Absence of Elders
 
-3. The duty of the calling committee shall be to make all necessary enquiries and to agree upon a prospective pastor with an eighty percent (80%) majority. The calling committee’s decision shall be recommended to the church as soon as possible. The calling committee shall put before the church only one prospective pastor at a time.
+1. The existing elders shall lead the congregation in the selection of a pastor-teacher.
 
-4. The calling committee’s recommendation shall be considered at a general meeting called for the purpose of appointing a pastor and no invitation shall be sent forward unless eighty (80%) percent of the members present vote in favour. Forty (40%) percent of the membership of the church shall be deemed to constitute a quorum at a general meeting called for this purpose.
+2. If there are no elders in the church then the following procedure shall be followed:
 
-5. An invitation shall be contingent upon the prospective pastor accepting in writing the provisions on the constitution of the church, a copy of which shall be supplied for his perusal.
+   1. A general meeting for the purpose of electing a pastor-teacher shall be called by the diaconate, at which the members shall appoint not less than six church members (who are not deacons) to act with the diaconate as a special calling committee. The members proposed for this calling committee shall be voted on at the above-mentioned general meeting. The members shall be individually accepted with a two-third majority of members present and eligible to vote.
+
+   2. The duty of the calling committee shall be to make all necessary enquiries and to agree upon a prospective pastor-teacher with an eighty percent (80%) majority. The calling committee’s decision shall be recommended to the church as soon as possible. The calling committee shall put before the church only one prospective pastor at a time.
+
+   3. The calling committee’s recommendation shall be considered at a general meeting called for the purpose of appointing a pastor and no invitation shall be sent forward unless eighty (80%) percent of the members present vote in favour. Forty (40%) percent of the membership of the church shall be deemed to constitute a quorum at a general meeting called for this purpose.
+
+   4. An invitation shall be contingent upon the prospective pastor accepting in writing the provisions on the constitution of the church, a copy of which shall be supplied for his perusal.
 
 ### 2 Deacons
 
 1. The deacons shall consist of members, over the age of 21, and who have been church members for no less than one year, possessing the qualifications described in 1 Timothy 3:8–13. Deacons elected by the church shall be members who are giving of themselves in service to the church, and who possess particular gifts of service. These members shall be received as gifts of Christ to his church and set apart as deacons. Deacons shall be elected to a term lasting two years, after which they shall retire from office. A retired deacon may be re-elected to office upon retirement, subject to the will of the church.
 
-2. Deacons shall operate under the broad oversight of the eldership but may, with the agreement of the elders, establish unpaid administrative positions or committees of members to assist them in fulfilling their responsibilities in the church.
+2. Deacons shall operate under the broad oversight of the eldership.
 
 3. There is no limit on the number of deacons who may serve the church at any given time, but deacons shall be appointed to meet particular administrative, ministerial, and benevolent needs as they arise. Deacons may be affirmed by the church at any regular members’ meeting, or at a special members’ meeting called for the purpose of appointing deacons, after the church has been informed of the nomination by no later than the Sunday prior to the members’ meeting in question.
 
