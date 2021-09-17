@@ -208,7 +208,7 @@ Worship services shall be held each Lord’s Day, and may be held throughout the
 
 2. The necessary funds for the work of the church shall be raised by free will offerings and tithes. No funds shall be raised in any other manner except with the consent of the elders.
 
-3. No disposal of church movable or immovable property or borrowing or capital purchase from church funds in excess of Fifty Thousand Rand (R1050,000) per item, exclusive of interest and taxation thereon, shall be valid except upon the authority of a resolution passed at a members’ meeting of the church. Such amount shall be escalated cumulatively by 15% (fifteen five percent) per annum (beginning in 2020002).
+3. No disposal of church movable or immovable property or borrowing or capital purchase from church funds in excess of Fifty Thousand Rand (R50,000) per item, exclusive of interest and taxation thereon, shall be valid except upon the authority of a resolution passed at a members’ meeting of the church. Such amount shall be escalated cumulatively by 15% (fifteen five percent) per annum (beginning in 2020002).
 
 [Table of contents](#table-of-contents)
 
