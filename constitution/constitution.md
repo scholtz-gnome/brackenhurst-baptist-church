@@ -1,5 +1,7 @@
 # Constitution of Brackenhurst Baptist Church
 
+**Modified: 27 June 2007**
+
 Since it pleased Almighty God, by his Holy Spirit, to call certain of his servants to unite here in 1972, under the name Brackenhurst Baptist Church, for the worship of God and the spread of the gospel of Jesus Christ, and since he has seen fit to sustain and prosper this work to the present day, we do hereby adopt this Constitution as our articles of governance, to be interpreted at all times to reflect the character of and bring glory to Jesus Christ, as revealed in the Holy Bible and articulated in the standards set forth in the statement of faith and church covenant included herein.
 
 ## TABLE OF CONTENTS
