@@ -220,7 +220,7 @@ The authority to affirm officers is vested in the congregation. The New Testamen
 
 ### 1 Elders (_pastors_ or _overseers_)
 
-In accordance with clear, New Testament principles, the oversight of the church rests with its elders, all of whom are equal in authority, ministering in a plurality of leadership. The structure of New Testament church government is a collective leadership in which each elder shares equally the position, authority, and responsibility of the office.
+In accordance with clear, scriptural principles, the oversight of the church rests with its elders, all of whom are equal in authority, ministering in a plurality of leadership. The structure of New Testament church government is a collective leadership in which each elder shares equally the position, authority, and responsibility of the office.
 
 #### 1 Terminology Regarding Elders
 
@@ -232,7 +232,7 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 #### 2 Qualifications for Elders
 
-1. The qualifications for the office of elder are specifically set forth in 1 Timothy 3:1–7; Titus 1:5–11; and 1 Peter 5:1–4. They are qualifications of ethical behaviour, knowledge of Christian doctrine, and sound family life. Elders must be “above reproach” (1 Timothy 3:2) because they are to wield godly influence for the church, and bring no reproach to the name of Christ. They are men who are able to teach, model a godly family life, are firmly committed to living out our Lord’s principles of discipleship, and who seek first the kingdom of God and his righteousness (Matthew 6:33). They are men who love Jesus Christ above all else and who willingly sacrifice themselves for the sake of others, even to suffer for Christ. They are men who are known to commit themselves to prayer.
+1. The qualifications for the office of elder are specifically set forth in 1 Timothy 3:1–7; Titus 1:5–9; and 1 Peter 5:1–4. They are qualifications of ethical behaviour, knowledge of Christian doctrine, and sound family life. Elders must be “above reproach” (1 Timothy 3:2) because they are to wield godly influence for the church, and bring no reproach to the name of Christ. They are men who are able to teach, model a godly family life, are firmly committed to living out our Lord’s principles of discipleship, and who seek first the kingdom of God and his righteousness (Matthew 6:33). They are men who love Jesus Christ above all else and who willingly sacrifice themselves for the sake of others, even to suffer for Christ. They are men who are known to commit themselves to prayer.
 
 2. The list of qualifications for those who shall oversee the local church presupposes males. The New Testament teaches male headship in both the family and the church. First Timothy 2:11–14 expressly forbids women to teach or to exercise authority over men in the corporate gathering of the church.
 
