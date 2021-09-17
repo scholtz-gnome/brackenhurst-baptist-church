@@ -23,9 +23,9 @@ Since it pleased Almighty God, by his Holy Spirit, to call certain of his servan
    2. [Members' Meetings](#2-members-meetings)
 9. [Church Officers and Staff](#9-church-officers-and-staff)
    1. [Elders](#1-elders-pastors-or-overseers)
-   2. [Deacons](#10-deacons)
-   3. [Pastoral Assistants](#11-pastoral-assistants)
-   4. [The Accountant](#12-the-accountant)
+   2. [Deacons](#2-deacons)
+   3. [Pastoral Assistants](#3-pastoral-assistants)
+   4. [The Accountant](#4-the-accountant)
 10. [Dissolution of the Church](#10-dissolution-of-the-church)
 11. [Modification of Constitution](#11-modification-of-constitution)
 
@@ -114,7 +114,7 @@ See the Statement of Faith in [Annexure B](#annexure-b)
 
 1. As outlined in the church covenant (Annexure A), church members shall be privileged and expected to participate in and contribute to the ministry and life of the church, consistent with God’s leading and with the member’s gifts, time, and God-given material resources.
 
-2. Only church members and persons undergoing the membership process shall be privileged to serve in the ministries of the church. Visiting members of likeminded churches and other non-members may serve the church’s ministry with the approval of the elders. Non-members may serve the church for the purposes of administration and professional consultation.
+2. Only church members and persons undergoing the membership process shall be privileged to serve in the ministries of the church. Visiting members of like-minded churches and other non-members may serve the church’s ministry with the approval of the elders. Non-members may serve the church for the purposes of administration and professional consultation.
 
 3. Under the authority of Jesus Christ and the holy Scriptures, the church is governed by its members. Church members therefore have the privileged responsibility of exercising the keys to the Kingdom, to attend members’ meetings and vote on the election of officers, decisions regarding membership status, and any other matters that may be submitted to a vote.
 
@@ -311,13 +311,13 @@ In accordance with clear, New Testament principles, the oversight of the church 
 
 3. There is no limit on the number of deacons who may serve the church at any given time, but deacons shall be appointed to meet particular administrative, ministerial, and benevolent needs as they arise. Deacons may be affirmed by the church at any regular members’ meeting, or at a special members’ meeting called for the purpose of appointing deacons, after the church has been informed of the nomination by no later than the Sunday prior to the members’ meeting in question.
 
-### 11 Pastoral Assistants
+### 3 Pastoral Assistants
 
 1. The elders may hire additional staff to assist with pastoral ministry, subject to a congregation-approved budget. These assistants shall not be hired as pastors, though they may be recognised as elders should they be nominated by the elders and affirmed by the congregation, in accordance with [Article 9.1.4](#4-selection-of-elders)
 
 2. The vocational elders shall assign the responsibilities of pastoral assistants. They shall serve in this capacity for as long as their assistance is required and the budget allows.
 
-### 12 The Accountant
+### 4 The Accountant
 
 1. The accountant, who shall not be an active elder, deacon, or paid church staff member, shall ensure that all funds and securities of the church are properly secured in such banks, financial institutions, or depositories as appropriate. The accountant shall also be responsible for presenting regular reports of the account balances, revenues and expenses of the church at each members’ meeting. The responsibility may be delegated with the approval of the elders.
 
