@@ -270,7 +270,7 @@ In accordance with clear, scriptural principles, the oversight of the church res
 
 1. Elders shall serve without remuneration, except in cases where it is felt by the elders and the congregation that it shall be advantageous to the life and ministry of the church, in keeping with a congregation-approved budget, that such elders should be enabled to give undivided attention to the work and ministry of the church. Any proposal to vocationally employ an elder shall be made at a regularly-scheduled members’ meeting and be ratified by the membership no sooner than the following regularly-scheduled members’ meeting.
 
-2. A vocational elder’s salary shall be determined by a salary committee elders comprising of non-staff elders, the accountant, and any other men appointed by the eldership to this responsibility. Vocational elders shall be granted a one-to-three month sabbatical every five-to-seven years. A sabbatical is not primarily a time of holiday, but a period of focused study and learning. Its design is to make a significant contribution to the vocational elder’s ongoing formation and vision of the church by developing knowledge, skills and insights. The vocational elders’ handbook outlines other privileges and responsibilities of vocational elders.
+2. A vocational elder’s salary shall be determined by non-vocational elders. Vocational elders shall be granted a one-to-three month sabbatical every five-to-seven years. A sabbatical is not primarily a time of holiday, but a period of focused study and learning. Its design is to make a significant contribution to the vocational elder’s ongoing formation and vision of the church by developing knowledge, skills and insights. The vocational elders’ handbook outlines other privileges and responsibilities of vocational elders.
 
 3. A vocational elder shall remain in office as long as he is a member and continues to meet the biblical requirements, or resigns the office, or disqualifies himself. Any engagement between the church and a vocational elder shall be terminated by three months’ notice in writing by either party, unless otherwise mutually agreed.
 
@@ -280,17 +280,7 @@ In accordance with clear, scriptural principles, the oversight of the church res
 
 2. Non-vocational elders shall be appointed to serve a term of three years. A non-vocational elder may serve a maximum of two three-year terms before taking a mandatory one-year sabbatical from the office of elder. Assuming he remains qualified, he may be nominated and re-affirmed as an elder after his one-year sabbatical.
 
-#### 7 Teaching Elders
-
-1. Although elders act jointly as a body and share equal authority and responsibility for the leadership of the church, they are not equal in giftedness, biblical knowledge, leadership ability, experience, or dedication. Therefore, those who are particularly gifted leaders and/or teachers stand out in the body of elders as leaders and teachers as “firsts among equals,” a pattern which was seen even among our Lord’s disciples.
-
-2. The concept of “first among equals” is underlined in the words of 1 Timothy 5:17–18, where we see that teaching pastors are to be given double honour. This allows the spiritual giftedness of these pastors to foster the spiritual growth of the church.
-
-3. The principle of “first among equals” allows for functional, gift-based diversity within the pastoral team without creating an official, superior office of one elder over fellow elders. The pastors who labour in the word and exercise good leadership are, in the words of Scripture, “leading men among the brothers” (Acts 15:22).
-
-4. The one seen as “first among equals” in this sense may be regarded as a leader of leaders, but is an elder himself and has no greater authority than any of the other elders.
-
-#### 8 Appointment of a Pastor in the Absence of Elders
+#### 7 Appointment of a Pastor in the Absence of Elders
 
 1. The existing elders shall lead the congregation in the selection of elder candidates. If there are no elders in the church then the following procedure shall be followed.
 
